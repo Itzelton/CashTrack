@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CashTrack</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="_0_00">₵0.00</string>
+    <string name="category">Category</string>
+    <string name="transaction_description">Transaction Description</string>
+    <string name="checking">Checking</string>
+    <string name="_0_000">₵0.00</string>
+</resources>
